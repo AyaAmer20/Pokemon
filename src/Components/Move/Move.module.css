@@ -1,0 +1,15 @@
+.prev{
+    background-color: brown;
+    border-radius: 20px;
+    text-align: center;
+    padding: 12px;
+    font-size: 20px;
+    margin: 15px;
+}
+.next{
+    background-color: blue;
+    border-radius: 20px;
+    text-align: center;
+    padding: 12px;
+    font-size: 20px;
+}
