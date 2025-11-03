@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AyaAmer20/Pokemon/static/css/main.7055f3c9.css",
+    "main.js": "/AyaAmer20/Pokemon/static/js/main.03a79108.js",
+    "static/js/453.c414e1a8.chunk.js": "/AyaAmer20/Pokemon/static/js/453.c414e1a8.chunk.js",
+    "index.html": "/AyaAmer20/Pokemon/index.html",
+    "main.7055f3c9.css.map": "/AyaAmer20/Pokemon/static/css/main.7055f3c9.css.map",
+    "main.03a79108.js.map": "/AyaAmer20/Pokemon/static/js/main.03a79108.js.map",
+    "453.c414e1a8.chunk.js.map": "/AyaAmer20/Pokemon/static/js/453.c414e1a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7055f3c9.css",
+    "static/js/main.03a79108.js"
+  ]
+}
